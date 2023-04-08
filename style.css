@@ -1,0 +1,28 @@
+body {
+    background: #030114;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+*{
+    color: white;
+}
+
+ul{
+    width: 5rem;
+    background: #000;
+}
+
+img {
+    width: 22rem;
+    height: 22rem;
+}
+
+#pop{
+    max-width: 250px;
+    padding: 1rem;
+    position: relative;
+    background: linear-gradient(to right, red, purple);
+    padding: 3px;
+  
+}
